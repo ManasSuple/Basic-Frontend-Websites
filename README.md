@@ -22,7 +22,7 @@ Additional Projects
 ![image](https://github.com/user-attachments/assets/3f7220e6-6aaf-48c8-8a9d-84a335ebb637)
 
 ![image](https://github.com/user-attachments/assets/cb3c427c-15c9-4e78-b213-912c831aa57a)
-
+-----------------------------------------------------------------------------------------------
 
 2. Screenshot of the Shoes website 1:
 ![image](https://github.com/user-attachments/assets/540b4bf0-3e91-4def-81bb-0ff0aed03f3d)
