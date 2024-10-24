@@ -4,7 +4,9 @@ Basic Frontend Website (HTML & CSS)
 A simple and clean website built using HTML and CSS demonstrating basic layout and design skills.. It includes the following pages:
 
 Home: The main page with basic content and layout.
+
 About: A page describing the purpose of the website or company.
+
 Contact: A form for users to reach out. 
 
 Additional Projects
