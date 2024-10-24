@@ -14,6 +14,8 @@ Additional Projects
 3. Shoes Website 2: A revamped version of the shoe store with improved design elements.
 4. Medical Website: A professional and clean website for a medical service, focusing on accessibility and user experience.
 
+   Feel free to ignore the JavaScript file I used for responsiveness; it doesn't matter whether you include it or not
+
 1. Screenshots of the Pet Adoption website: ---------------------------------------------
 ![image](https://github.com/user-attachments/assets/74476cb2-97b0-478d-9be8-ec9897101623)
 
