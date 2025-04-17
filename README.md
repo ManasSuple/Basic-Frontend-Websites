@@ -38,7 +38,7 @@ A sleek e-commerce shoe store designed with a trendy aesthetic and straightforwa
 
 ---
 
-### 🔄 3. **Shoes Website – Version 2**
+### ⚒️ 3. **Shoes Website – Version 2**
 An improved version of the previous e-commerce site with refined visual elements, improved layout, and better user flow.
 
 **Screenshots:**
@@ -82,4 +82,3 @@ Feel free to reach out if you’d like to collaborate or learn more about my wor
 ---
 
 > *Note: JavaScript was only used for minor responsive elements and isn't required to view or understand the core layout and design.*
-
